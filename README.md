@@ -1,2 +1,2 @@
 # discord-things
-My Discord Experiments ed develops
+My Discord Experiments end develops
