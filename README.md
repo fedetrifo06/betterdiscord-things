@@ -1,2 +1,2 @@
-# discord-things
-My Discord Experiments end develops
+# better-discord-things
+My Better Discord Experiments end develops
